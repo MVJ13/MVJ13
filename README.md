@@ -20,13 +20,13 @@
 name: Mark Jumalon
 based_in: Olongapo City, Zambales, Philippines
 education: BSIT — Columban College, Inc.
-looking_for: ["Help Desk", "IT Support", "Service Desk", "Technical Support"]
+looking_for: ["Technical Support", "IT Support", "Service Desk", "Help Desk"]
 certifications: ["CCNA", "NDG Linux Essentials", "Programming Essentials in C/C++/Python"]
 recent_experience: "IT Technical Support Intern — Olongapo City Hall (MIS Office)"
 currently: "Shipping small support/dev projects & sharpening networking + Linux fundamentals"
 ```
 
-- 🔭 I'm currently open to work in **IT Support / Help Desk / Technical Support** roles
+- 🔭 I'm currently open to work in **Technical Support / IT Support / Help Desk** roles
 - 🌱 Strengthening my **networking (CCNA)** and **Linux** fundamentals
 - 🛠️ I like systems that quietly work — and being the person who keeps them that way
 - 📫 Reach me at **jumalonmark13@gmail.com**
