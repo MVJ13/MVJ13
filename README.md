@@ -2,7 +2,7 @@
 <h3 align="center">IT Support & Help Desk | BSIT Graduate | Fixing things quietly so everyone else can keep working</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Mark%20Jumalon&fontSize=45&fontColor=fff&animation=fadeIn&desc=IT%20Technical%20Support%20%7C%20Help%20Desk%20%7C%20Systems&descAlignY=60&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FC894A,100:E8672B&height=180&section=header&text=Mark%20Jumalon&fontSize=45&fontColor=fff&animation=fadeIn&desc=IT%20Technical%20Support%20%7C%20Help%20Desk%20%7C%20Systems&descAlignY=60&descSize=18" />
 </p>
 
 <p align="center">
