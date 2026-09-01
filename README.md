@@ -14,12 +14,16 @@
 
 ### `01` · CONNECT
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://mvj13.github.io/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jumalonmark13@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jumalonmark0613/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mark.jumalon.13)
+<p align="center">
+  <a href="https://mvj13.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white&cacheSeconds=3600" /></a>
+  <a href="mailto:jumalonmark13@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&cacheSeconds=3600" /></a>
+  <a href="https://www.linkedin.com/in/jumalonmark0613/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&cacheSeconds=3600" /></a>
+  <a href="https://www.facebook.com/mark.jumalon.13" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&cacheSeconds=3600" /></a>
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=MVJ13&label=Profile+Views&color=fc894a&style=for-the-badge)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MVJ13&label=Profile+Views&color=fc894a&style=for-the-badge" />
+</p>
 
 ---
 
@@ -43,15 +47,23 @@ currently: "Shipping small support/dev projects & sharpening networking + Linux 
 
 ### `03` · CERTIFICATIONS
 
-[![CCNA](https://img.shields.io/badge/CCNA-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.netacad.com/)
-[![NDG Linux Essentials](https://img.shields.io/badge/NDG%20Linux%20Essentials-Linux%20Foundation-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.netacad.com/)
-[![Programming Essentials](https://img.shields.io/badge/Programming%20Essentials-C%20%2F%20C%2B%2B%20%2F%20Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.netacad.com/)
+<p align="center">
+  <a href="https://www.netacad.com/" target="_blank"><img src="https://img.shields.io/badge/CCNA-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&cacheSeconds=3600" /></a>
+  <a href="https://www.netacad.com/" target="_blank"><img src="https://img.shields.io/badge/NDG%20Linux%20Essentials-Linux%20Foundation-FCC624?style=for-the-badge&logo=linux&logoColor=black&cacheSeconds=3600" /></a>
+  <a href="https://www.netacad.com/" target="_blank"><img src="https://img.shields.io/badge/Programming%20Essentials-C%20%2F%20C%2B%2B%20%2F%20Python-3776AB?style=for-the-badge&logo=python&logoColor=white&cacheSeconds=3600" /></a>
+</p>
 
 ---
 
 ### `04` · TOOLS & TECHNOLOGIES
 
-![Tools](https://skillicons.dev/icons?i=python,cpp,c,php,laravel,html,css,js,mysql,linux,git,bash)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JoshuaThadi/JoshuaThadi/main/transparent_gitgif.gif" width="450" alt="coding animation" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,php,laravel,html,css,js,mysql,linux,git,bash" />
+</p>
 
 ---
 
