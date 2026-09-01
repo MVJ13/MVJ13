@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <code>📍 Olongapo City, Zambales, PH</code> • <code>🎓 BSIT — Columban College, Inc.</code> • <code>🛠️ Help Desk / IT Support</code>
+  <code>📍 Olongapo City, Zambales, PH</code> • <code>🎓 BSIT — Columban College, Inc.</code> • <code>🛠️ IT Support / Help Desk Support </code>
 </p>
 
 ---
@@ -57,11 +57,40 @@ currently: "Shipping small support/dev projects & sharpening networking + Linux 
 
 ### `05` · FEATURED PROJECTS
 
-| Project | Description | Stack |
-|---|---|---|
-| **[POS System — Samgy Hann 199](https://github.com/MVJ13/SAMGY_HANN_POS_FINAL)** | Web-based point-of-sale system built for a Korean BBQ restaurant as a capstone project. Full order flow, load-tested with JMeter. | `Laravel 12` `Livewire 3` `PHP 8.2` `Alpine.js` `Tailwind` `MySQL` |
-| **[Trails](https://github.com/MVJ13/Markstery)** | Desktop time-management app built with a 4-person team using Agile/Kanban. | `Python` `Tkinter` `TTKBootstrap` |
-| **[Portfolio Site](https://github.com/MVJ13/MVJ13.github.io)** | Personal IT support portfolio — about, certs, work log, skills, and projects. | `HTML` `CSS` `JS` |
+<table>
+<tr>
+<td width="220"><img src="https://placehold.co/400x260/1a1a1a/fc894a?text=POS+System" width="200" /></td>
+<td>
+
+**[POS System — Samgy Hann 199](https://github.com/MVJ13/SAMGY_HANN_POS_FINAL)**
+Web-based point-of-sale system built for a Korean BBQ restaurant as a capstone project. Full order flow, load-tested with JMeter.
+`Laravel 12` `Livewire 3` `PHP 8.2` `Alpine.js` `Tailwind` `MySQL`
+
+</td>
+</tr>
+<tr>
+<td width="220"><img src="https://placehold.co/400x260/1a1a1a/fc894a?text=Trails+App" width="200" /></td>
+<td>
+
+**[Trails](https://github.com/MVJ13/Markstery)**
+Desktop time-management app built with a 4-person team using Agile/Kanban.
+`Python` `Tkinter` `TTKBootstrap`
+
+</td>
+</tr>
+<tr>
+<td width="220"><img src="https://placehold.co/400x260/1a1a1a/fc894a?text=Portfolio+Site" width="200" /></td>
+<td>
+
+**[Portfolio Site](https://github.com/MVJ13/MVJ13.github.io)**
+Personal IT support portfolio — about, certs, work log, skills, and projects.
+`HTML` `CSS` `JS`
+
+</td>
+</tr>
+</table>
+
+<sub>📌 The 3 images above are placeholders — swap the `placehold.co` links for real screenshots of each project whenever you have them ready.</sub>
 
 ---
 
