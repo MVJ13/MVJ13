@@ -90,23 +90,12 @@ Personal IT support portfolio — about, certs, work log, skills, and projects.
 </tr>
 </table>
 
-<sub>📌 The 3 images above are placeholders — swap the `placehold.co` links for real screenshots of each project whenever you have them ready.</sub>
-
 ---
 
 ### `06` · GITHUB STATS
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MVJ13&show_icons=true&theme=dark&hide_border=true&border_radius=10&bg_color=0d1117&title_color=fc894a&icon_color=fc894a&text_color=c9d1d9&count_private=true" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=MVJ13&theme=dark&hide_border=true&border_radius=10&background=0d1117&ring=fc894a&fire=fc894a&currStreakLabel=fc894a" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MVJ13&layout=compact&theme=dark&hide_border=true&border_radius=10&bg_color=0d1117&title_color=fc894a&text_color=c9d1d9" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MVJ13&hide_border=true&bg_color=0d1117&color=fc894a&line=fc894a&point=e8672b&area=true" />
 </p>
 
 ---
