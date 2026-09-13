@@ -37,7 +37,7 @@ currently: "Shipping small support/dev projects & sharpening networking + Linux 
 - 🔭 Open to work in **Help Desk / IT Support / Service Desk / Technical Support** roles
 - 🌱 Strengthening my **networking (CCNA)** and **Linux** fundamentals
 - 🛠️ I like systems that quietly work — and being the person who keeps them that way
-- 📫 Reach me at **jumalonmark13@gmail.com**
+- 📫 Reach me at **markjumalon2003@gmail.com**
 
 ---
 
