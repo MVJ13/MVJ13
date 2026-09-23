@@ -13,7 +13,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MVJ13/MVJ13/assets/matrix-banner.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/MVJ13/assets/matrix-banner.svg" width="100%" />
 </p>
 
 ---
