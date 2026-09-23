@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MVJ13/MVJ13/main/assets/matrix-banner-mvj-theme.svg" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FC894A,100:E8672B&height=180&section=header&text=Mark%20Jumalon&fontSize=45&fontColor=fff&animation=fadeIn&desc=IT%20Technical%20Support%20%7C%20Help%20Desk%20%7C%20Systems&descAlignY=60&descSize=18" />
 </p>
 
 <p align="center">
@@ -8,6 +8,12 @@
 
 <p align="center">
   <code>📍 Olongapo City, Zambales, PH</code> • <code>🎓 BSIT — Columban College, Inc.</code> • <code>🛠️ IT Support / Help Desk Support </code>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MVJ13/MVJ13/main/assets/matrix-banner-mvj-theme.svg" width="100%" />
 </p>
 
 ---
