@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MVJ13/MVJ13/main/assets/matrix-banner-header.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/MVJ13/MVJ13/main/assets/matrix-banner-mvj-theme.svg" width="100%" />
 </p>
 
 <p align="center">
