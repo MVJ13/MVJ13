@@ -12,6 +12,20 @@
 
 ---
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FC894A,100:E8672B&height=180&section=header&text=Mark%20Jumalon&fontSize=45&fontColor=fff&animation=fadeIn&desc=IT%20Technical%20Support%20%7C%20Help%20Desk%20%7C%20Systems&descAlignY=60&descSize=18" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MVJ13/MVJ13/main/assets/matrix-banner.svg" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=FC894A&center=true&vCenter=true&width=520&lines=IT+Technical+Support;BSIT+Graduate+%E2%80%94+Columban+College;CCNA+%7C+Linux+Essentials+Certified;Fixing+things+quietly+since+day+one." alt="Typing SVG" />
+</p>
+
+---
+
 ### `01` · CONNECT
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://mvj13.github.io/)
