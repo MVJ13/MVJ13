@@ -65,7 +65,7 @@ currently: "Shipping small support/dev projects & sharpening networking + Linux 
 
 <table>
 <tr>
-<td width="220"><img src="https://placehold.co/400x260/1a1a1a/fc894a?text=POS+System" width="200" /></td>
+<td width="220"><img src="assets/POS.png" width="200" /></td>
 <td>
 
 **[POS System — Samgy Hann 199](https://github.com/MVJ13/SAMGY_HANN_POS_FINAL)**
@@ -75,7 +75,7 @@ Web-based point-of-sale system built for a Korean BBQ restaurant as a capstone p
 </td>
 </tr>
 <tr>
-<td width="220"><img src="https://placehold.co/400x260/1a1a1a/fc894a?text=Trails+App" width="200" /></td>
+<td width="220"><img src="assets/Trails.png" width="200" /></td>
 <td>
 
 **[Trails](https://github.com/MVJ13/Markstery)**
